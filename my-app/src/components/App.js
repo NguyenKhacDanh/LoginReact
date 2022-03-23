@@ -1,5 +1,6 @@
 import "../styles/index.css";
 import Login from "./login/login";
+import Register from "./login/register"
 
 function App() {
   return (
